@@ -68,6 +68,13 @@ figure>img {
     padding: 20px;
 }
 
+.post {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+
+}
 .post h2 {
     text-align: center;
 }
